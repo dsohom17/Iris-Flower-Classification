@@ -1,2 +1,2 @@
 # Iris-Flower-Classification
-Given Sepal and Petal lengths and width predict the class of Iris
+Given sepal and petal lengths and width predict the class of Iris
